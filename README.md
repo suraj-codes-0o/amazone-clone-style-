@@ -1,2 +1,2 @@
-# amazone-clone-style-
-amazon clone style using css
+# amazone-ui-clone-style-
+amazon-UI-clone style using css
